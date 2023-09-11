@@ -1,0 +1,25 @@
+.page-padding{
+    padding-left: 8em;
+}
+
+
+
+@media screen and (max-width: 990px) {
+    .testimonial-title{
+        display: grid;
+        justify-content: center;
+        padding-bottom: 1rem;
+    }
+    .page-padding{
+        padding-left: 0em;
+    }
+}
+
+@media screen and (max-width: 630px) {
+    .testimonial-title{
+        padding-left: 2.5rem;
+    }
+    .mySlides{
+        padding: 0px 50px 8rem;
+    }
+}
