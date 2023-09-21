@@ -15,31 +15,6 @@
   background-color: #e3f2fd;
 }
 
-.testimonial-1 {
-  position: relative;
-  max-width: 1200px;
-  width: 100%;
-  padding: 0 0 50px;
-  overflow: hidden;
-}
-
-.testimonial-1 .testimonial-image {
-  height: 170px;
-  width: 170px;
-  object-fit: cover;
-  border-radius: 50%;
-}
-
-.testimonial-1 .testimonial-slide {
-  display: flex;
-  align-items: center;
-  justify-content: center;
-  flex-direction: column;
-  row-gap: 30px;
-  height: 100%;
-  width: 100%;
-}
-
 .testimonial {
   position: relative;
   max-width: 900px;
